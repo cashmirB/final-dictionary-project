@@ -18,3 +18,10 @@
   opacity: 0.7;
   font-size: 12px;
 }
+
+.Dictionary .title {
+  font-size: 16px;
+  font-weight: bold;
+  line-height: 1.5;
+  margin-bottom: 10px;
+}
